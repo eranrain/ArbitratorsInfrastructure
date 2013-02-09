@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreModule.Core", "UsersModule.Core\CoreModule.Core.csproj", "{79ED0409-4406-470E-A6FC-740BFBCAA500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersMoudle.Core", "UsersMoudle\UsersMoudle.Core.csproj", "{7D81FB5D-5BE9-4640-8FD7-47DE4244CB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79ED0409-4406-470E-A6FC-740BFBCAA500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ED0409-4406-470E-A6FC-740BFBCAA500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ED0409-4406-470E-A6FC-740BFBCAA500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ED0409-4406-470E-A6FC-740BFBCAA500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D81FB5D-5BE9-4640-8FD7-47DE4244CB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D81FB5D-5BE9-4640-8FD7-47DE4244CB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D81FB5D-5BE9-4640-8FD7-47DE4244CB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D81FB5D-5BE9-4640-8FD7-47DE4244CB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
